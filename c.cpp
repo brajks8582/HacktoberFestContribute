@@ -1,4 +1,4 @@
-oid bin(unsigned n) 
+void bin(unsigned n) 
 { 
     /* step 1 */
     if (n > 1) 
